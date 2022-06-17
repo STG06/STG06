@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @STG06
-- 👀 I’m interested in ... cpp 
-- 🌱 I’m currently learning ... cpp
-- 💞️ I’m looking to collaborate on ... cpp
+- 👀 I’m interested in ... Js 
+- 🌱 I’m currently learning ... Js
+- 💞️ I’m looking to collaborate on ... Js
 - 📫 How to reach me ... 
 
 <!---
