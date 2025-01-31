@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @STG06
-- 👀 I’m interested in ... Js 
-- 🌱 I’m currently learning ... Js
-- 💞️ I’m looking to collaborate on ... Js
+- 👀 I’m interested in ... Machine Learning and Intelligence
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
 
 <!---
